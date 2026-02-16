@@ -1,3 +1,16 @@
+## 🤝 My Contribution
+
+I contributed to this project by implementing **standardized error handling** across the entire API:
+
+- Introduced global error handling middleware and API error response models
+- Mapped domain exceptions to structured HTTP responses for better debugging
+- Added comprehensive unit tests for exception handling (xUnit)
+- Ensured consistent API responses across all controllers
+
+**[View my merged Pull Request #45 →](https://github.com/HIT-ReFreSH/WebLedger/pull/45)**
+
+---
+
 <div  align=center>
     <img src="https://raw.githubusercontent.com/HIT-ReFreSH/WebLedger/main/images/Full_2048.png?raw=true" width = 30% height = 30%  />
 </div>
